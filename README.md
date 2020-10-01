@@ -6,3 +6,11 @@ The finished deployed app's interface is a jumbotron header explaining the premi
 
 The time of day the app is accessed will alter the color coding of the time slot blocks.  The hours are set up to display dark grey if the listed time has already passed, white is the hour is present and light blue if the hour is still due to pass.  
 
+Link to deployed app:
+https://triciaroush.github.io/hw5-workdayscheduler/
+
+Preview:
+<img src="deployed_workdayscheduler.png">
+Please note: In the deployed image preview, all slots are in grey because the time the photo was taken was after the entire 8 hour block had passed.  Had image been taken between 9am and 5pm, the hour blocks colors' would have fluctuated based on the timestamp.  
+
+
