@@ -10,7 +10,5 @@ Link to deployed app:
 https://triciaroush.github.io/hw5-workdayscheduler/
 
 Preview:
-<img src="deployed_workdayscheduler.png">
+<img src="./deployed/deployed_workdayscheduler.png">
 Please note: In the deployed image preview, all slots are in grey because the time the photo was taken was after the entire 8 hour block had passed.  Had image been taken between 9am and 5pm, the hour blocks colors' would have fluctuated based on the timestamp.  
-
-
